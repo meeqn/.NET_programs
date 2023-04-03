@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cars>
+  <car>
+    <model>E250</model>
+    <year>2009</year>
+    <engine model="CGI">
+      <displacement>1.8</displacement>
+      <horsePower>204</horsePower>
+    </engine>
+  </car>
+  <car>
+    <model>E350</model>
+    <year>2009</year>
+    <engine model="CGI">
+      <displacement>3.5</displacement>
+      <horsePower>292</horsePower>
+    </engine>
+  </car>
+  <car>
+    <model>A6</model>
+    <year>2012</year>
+    <engine model="FSI">
+      <displacement>2.5</displacement>
+      <horsePower>187</horsePower>
+    </engine>
+  </car>
+  <car>
+    <model>S6</model>
+    <year>2012</year>
+    <engine model="TFSI">
+      <displacement>4</displacement>
+      <horsePower>414</horsePower>
+    </engine>
+  </car>
+  <car>
+    <model>S8</model>
+    <year>2012</year>
+    <engine model="TFSI">
+      <displacement>4</displacement>
+      <horsePower>513</horsePower>
+    </engine>
+  </car>
+</cars>
